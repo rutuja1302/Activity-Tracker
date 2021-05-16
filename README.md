@@ -1,6 +1,17 @@
-# ActivityTrackerApplication
+# Activity Tracker Application
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+
+Activity Tracker is an application for monitoring Tasks.
+It takes different tasks(study, workout, etc) as Input and Maintains the tasks list for the user. In Real-time user can modify the list by adding new tasks, mark the tasks as complete and also clear the whole list.
+
+# Project Output
+![](https://github.com/rutuja1302/Activity-Tracker/blob/main/src/assets/activity-tracker-output.gif)
+
+## Pre-requisites:
+- Install Node js : https://nodejs.org/en/
+- Install Angular CLI : https://angular.io/cli
+- Install a Suitable IDE: https://code.visualstudio.com/download
 
 ## Development server
 
@@ -21,7 +32,3 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
